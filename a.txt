@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hahaha
+=======
+update 1
+>>>>>>> d0decbbe1d981b48093d8d573bf8c4b461bcd511
